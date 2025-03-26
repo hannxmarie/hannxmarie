@@ -11,7 +11,6 @@ Currently working in a mix of data analysis, spacecraft operations, research and
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=num)&nbsp;
